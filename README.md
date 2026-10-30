@@ -1,1 +1,1 @@
-# Vina_bacth_dock
+# Autodock_bacth_dock
